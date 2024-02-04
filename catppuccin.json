@@ -619,7 +619,11 @@
         "tab_bar.background": "#181926",
         "tab.inactive_background": "#1e2030",
         "tab.active_background": "#24273a",
+<<<<<<< HEAD
         "search.match_background": "#6e738d",
+=======
+        "search.match_background": "#f0c6c6",
+>>>>>>> 48f9916da5e22097040dccbd4b627c06e6145866
         "panel.background": "#24273a",
         "panel.focused_border": "#b7bdf8",
         "pane.focused_border": "#b7bdf8",
@@ -633,7 +637,11 @@
         "editor.gutter.background": "#24273a",
         "editor.subheader.background": null,
         "editor.active_line.background": "#494d64",
+<<<<<<< HEAD
         "editor.highlighted_line.background": "#6e738d",
+=======
+        "editor.highlighted_line.background": "#eed49f",
+>>>>>>> 48f9916da5e22097040dccbd4b627c06e6145866
         "editor.line_number": "#8087a2",
         "editor.active_line_number": "#a6da95",
         "editor.invisible": "#b7bdf8",
