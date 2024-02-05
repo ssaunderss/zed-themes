@@ -583,7 +583,7 @@
       "name": "Catppuccin Macchiato",
       "appearance": "dark",
       "style": {
-        "border": "#5b6078",
+        "border": "#494d64",
         "border.variant": "#5b6078",
         "border.focused": "#c6a0f6",
         "border.selected": "#a6da95",
@@ -597,7 +597,7 @@
         "element.active": "#a6da95",
         "element.selected": "#363a4f",
         "element.disabled": null,
-        "drop_target.background": "#f5a97f",
+        "drop_target.background": "#554964",
         "ghost_element.background": null,
         "ghost_element.hover": "#363a4f",
         "ghost_element.active": "#a6da95",
@@ -618,7 +618,7 @@
         "toolbar.background": "#24273a",
         "tab_bar.background": "#181926",
         "tab.inactive_background": "#1e2030",
-        "tab.active_background": "#24273a",
+        "tab.active_background": "#363a4f",
         "search.match_background": "#6e738d",
         "panel.background": "#24273a",
         "panel.focused_border": "#b7bdf8",
@@ -631,7 +631,7 @@
         "editor.foreground": "#cad3f5",
         "editor.background": "#24273a",
         "editor.gutter.background": "#24273a",
-        "editor.subheader.background": null,
+        "editor.subheader.background": "#363a4f",
         "editor.active_line.background": "#494d64",
         "editor.highlighted_line.background": "#6e738d",
         "editor.line_number": "#8087a2",
@@ -714,7 +714,7 @@
         "warning.border": "#939ab7",
         "players": [
           {
-            "cursor": "#f0c6c6",
+            "cursor": "#939ab7",
             "background": "#939ab7",
             "selection": "#939ab7"
           }
