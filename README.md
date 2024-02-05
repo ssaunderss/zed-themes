@@ -1,19 +1,30 @@
 # zed-themes
-A collection of imported VSCode themes to Zed
+A collection of imported VSCode themes to Zed. This is still a very much work in progress, below is a status on each theme's maturity:
+
+- **Catppuccin:** This theme is under active development
+  - **Macchiato** is finished porting
+  - **Latte, Mocha, Frappe** are still in progress
+- **Nightfox:** Ported, still needs some fixes but not under active development.
+- **Tokyo Night:** Ported, still needs some fixes but not under active development.
+
+If you want to quickly load these themes you can use the following command:
+```bash
+sudo find ~/repo/zed-themes/ -type f \( -iname '*.json' \) -exec cp {} ~/.config/zed/themes \;
+```
 
 ## Catppuccin
-
-### Frappe
-![frappe](./screenshots/Catppuccin/Frappe.png)
-
-### Latte
-![latte](./screenshots/Catppuccin/Latte.png)
 
 ### Macchiato
 ![macchiato](./screenshots/Catppuccin/Macchiato.png)
 
+### Latte
+![latte](./screenshots/Catppuccin/Latte.png)
+
 ### Mocha
 ![mocha](./screenshots/Catppuccin/Mocha.png)
+
+### Frappe
+![frappe](./screenshots/Catppuccin/Frappe.png)
 
 ## Nightfox
 
