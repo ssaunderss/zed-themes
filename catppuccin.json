@@ -594,13 +594,13 @@
         "background": "#24273a",
         "element.background": "#1e2030",
         "element.hover": "#6e738d",
-        "element.active": "#a6da95",
+        "element.active": "#c6a0f6",
         "element.selected": "#363a4f",
         "element.disabled": null,
         "drop_target.background": "#554964",
         "ghost_element.background": null,
         "ghost_element.hover": "#363a4f",
-        "ghost_element.active": "#a6da95",
+        "ghost_element.active": "#b7bdf8",
         "ghost_element.selected": "#363a4f",
         "ghost_element.disabled": "#a6da95",
         "text": "#cad3f5",
@@ -786,7 +786,7 @@
             "font_weight": null
           },
           "operator": {
-            "color": "#8bd5ca",
+            "color": "#c6a0f6",
             "font_style": null,
             "font_weight": null
           },
